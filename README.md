@@ -12,7 +12,7 @@ $ make
 
 ## Usage
 
-This solver is participating in PACE 2019, so the input and output formats are as described on the [https://pacechallenge.org/2019/vc/vc_format/](challenge website).
+This solver is participating in PACE 2019, so the input and output formats are as described on the [challenge website](https://pacechallenge.org/2019/vc/vc_format/).
 
 ### Example:
 
