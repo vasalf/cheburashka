@@ -18,7 +18,7 @@ This solver is participating in PACE 2019, so the input and output formats are a
 
 ```
 $ ./cheburashka
-c A complete graph of three vertices
+c A complete graph on three vertices
 p td 3 3
 1 2
 2 3
